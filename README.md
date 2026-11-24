@@ -20,3 +20,7 @@ This is one of 10 deterministic B2B tools for SaaS teams built by [derbaroser-en
 See all tools: https://derbaroser-eng.github.io/products/
 
 Built with Python. Standard library only. No ML. No subscriptions. No data leaves your machine.
+
+## Writing
+
+- [I stopped asking a model to read my invoices](https://dev.to/aurum_revenue/i-stopped-asking-a-model-to-read-my-invoices-3985) — why I traded a hosted model for regex, what the extractor deliberately misses, and the ten assertions behind it.
